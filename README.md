@@ -5,6 +5,6 @@ This is a mini UI project for a calculator. This project uses a package called d
 Just cd to the root directory, and enter ```cargo run```. The main function create a new window for display the UI app.
 
 ## Screenshot
-![alt text](src/ss1.png)
+![alt text](resource/ss1.png)
 ## References
 * [rust-cli-template](https://github.com/kbknapp/rust-cli-template)
